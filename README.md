@@ -11,7 +11,7 @@ Mô hình được sử dụng là YOLO version 8 và YOLO version 11
 ***
 ## **Công nghệ sử dụng**
 - Ngôn ngữ lập trình: Python
-- Thư viện: Torch, Torchvision, PIL, Numpy, os
+- Thư viện: Torch, Torchvision, Numpy, os
 - Mô hình: YOLO
 ***
 ## **Cài đặt**
