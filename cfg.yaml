@@ -1,0 +1,10 @@
+DATASET: 
+  LOAD_DATA:
+    FILE_ID: "1Yrp2PxT-PevOrSiungHfJsgBhAGEhIlt"
+    FILE_ZIP: "dataset"
+    EXTRACT_FOLDER: "." 
+  
+  LOADER: 
+    BATCH_SIZE: 128
+    SHUFFLE: True
+
