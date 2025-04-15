@@ -1,5 +1,3 @@
-# **Vehicles Detection - Nhận diện phương tiện**
-***
 ## **Giới thiệu**
 Mô hình xe tự lái
 ***
